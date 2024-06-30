@@ -1,10 +1,3 @@
-/* Toaster.css */
-
-.container{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
 
 .toaster {
     display: flex;
@@ -20,9 +13,6 @@
     z-index: 1000;
   }
   
-  .toaster-icon {
-    margin-right: 10px;
-  }
   
   .toaster-message {
     flex-grow: 1;
